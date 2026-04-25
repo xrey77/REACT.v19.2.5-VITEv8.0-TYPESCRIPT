@@ -1,7 +1,5 @@
 # REACT v19.2.5, VITE 8.0.0 and TYPESCRIPT STARTER PROJECT
 
-# React + TypeScript + Vite
-
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
