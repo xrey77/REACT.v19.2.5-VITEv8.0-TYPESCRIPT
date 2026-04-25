@@ -1,5 +1,11 @@
 # REACT v19.2.5, VITE 8.0.0 and TYPESCRIPT STARTER PROJECT
 
+Dependencies
+1. node 24,13.1
+2. npm 11.8.0
+3. Vite 8.0.0
+4. Typescript 6.0.2
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
